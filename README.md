@@ -6,7 +6,8 @@
 
 <br/>
 
-[![AniUA Site](https://img.shields.io/badge/AniUA-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuzka.site)
+[![AniUA Site](https://img.shields.io/badge/AniUA-FF5722?style=for-the-badge&logo=google&logoColor=white)](https://yuzka.site)
+[![Müllmer](https://img.shields.io/badge/Müllmer-C8B5F4?style=for-the-badge&logo=google-chrome&logoColor=black)](https://m.yuzka.site)
 
 </div>
 
