@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrejdev)
 [![AniUA Site](https://img.shields.io/badge/AniUA-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuzka.site)
 
 </div>
