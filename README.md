@@ -79,41 +79,6 @@ const pavlo = {
 
 <br/>
 
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/suika-sensei/mullmer">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=suika-sensei&repo=mullmer&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" alt="Mullmer" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/aniua-app/aniua">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=aniua-app&repo=aniua&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" alt="Aniua" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/suika-sensei/QShare">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=suika-sensei&repo=QShare&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" alt="QShare" />
-</a>
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
