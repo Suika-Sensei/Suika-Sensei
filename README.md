@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Linux+Enthusiast+%F0%9F%90%A7;Open+Source+Contributor+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br/>
-
-[![AniUA Site](https://img.shields.io/badge/AniUA-FF5722?style=for-the-badge&logo=google&logoColor=white)](https://yuzka.site)
-[![Müllmer](https://img.shields.io/badge/Müllmer-C8B5F4?style=for-the-badge&logo=google-chrome&logoColor=black)](https://m.yuzka.site)
-
 </div>
 
 <br/>
